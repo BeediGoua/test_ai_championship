@@ -1,0 +1,5 @@
+experiment,status,notes,updated_at
+01_kgw_metrics,planned,ROC metrics example,2026-11-17
+02_textseal_or_toy,planned,Toy score comparison,2026-11-17
+03_image_robustness,planned,Synthetic image perturbation,2026-11-17
+04_mock_challenge,planned,End-to-end mock submission,2026-11-17
